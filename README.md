@@ -37,7 +37,7 @@ An asymmetric cryptographic algorithm used to **securely exchange keys**. RSA ge
 
 #### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/file-encryption-python.git
+git clone https://github.com/nnewtrp/file-encryption-python.git
 cd file-encryption-python
 ```
 
